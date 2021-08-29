@@ -39,12 +39,12 @@ Atualmente trabalho como desenvolvedor na BrainyIT onde trabalho com diversos mi
 ## Projetos Pessoais:
 
 ### Ciência de Dados: 
-   Primeiros passos com Data Science: https://bit.ly/MinicursoDS
-   Explorando a base de dados do ENEM com alunos de Teresina/PI: https://github.com/vinnyalvs/MineracaoDadosEnemTeresina
-   TCC: Uso de aprendizado de máquina para identificar desigualdades sociais na base de dados do ENEM: http://monografias.nrc.ice.ufjf.br/tcc-web/tcc?id=549
+   * Primeiros passos com Data Science: https://bit.ly/MinicursoDS
+   * Explorando a base de dados do ENEM com alunos de Teresina/PI: https://github.com/vinnyalvs/MineracaoDadosEnemTeresina
+   * TCC: Uso de aprendizado de máquina para identificar desigualdades sociais na base de dados do ENEM: http://monografias.nrc.ice.ufjf.br/tcc-web/tcc?id=549
      
  ### Desenvolvimento Web: 
-  Quer sair da asa dos pais? Se prepara pois pesa no bolso: https://vinnyalvs.github.io/QuantoCustaMorarSozinho/
+  * Quer sair da casa dos pais? Se prepara pois pesa no bolso: https://vinnyalvs.github.io/QuantoCustaMorarSozinho/
      
 ### Artigos Publicados     
    * Identificação de Desigualdades Sociais a partir do desempenho dos alunos do Ensino Médio no ENEM 2019 utilizando Mineração de Dados http://dx.doi.org/10.5753/cbie.sbie.2020.72 
@@ -53,7 +53,7 @@ Atualmente trabalho como desenvolvedor na BrainyIT onde trabalho com diversos mi
 
 ## Contato
 
-  * Email: viniciusalves@ice.ifjf.br
+  * Email: viniciusalves@ice.ufjf.br
   * Linkedin: https://www.linkedin.com/in/vinicius-alves-9a45a3117/
 
 
