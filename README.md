@@ -5,7 +5,7 @@
 
 Meu nome é Vinicius (ele/dele), nasci em 1997 em Juiz de Fora, Minas Gerais. Brasil. Sou Bacharel Em Ciencia da Computação e Bacharel em Ciências Exatas pela Universidade Federal de juiz de Fora.
 
-Atualmente trabalho como desenvolvedor na BrainyIT onde trabalho com diversos microserviços. Estes são construídos principalmente com o Framework de Java Spring boot e com o Framework PHP Laravel. Tenho experiência com projetos de cunho cientifico na em projetos de análise e visualização de dados, com um pézinho em sistemas de recomendação educacionais.
+Atualmente trabalho como desenvolvedor na BrainyIT onde trabalho com diversos microserviços. Estes são construídos principalmente com o Framework de Java Spring boot e com o Framework PHP Laravel. Tenho experiência com projetos de cunho cientifico na área de educação em projetos de análise e visualização de dados, com um pézinho em sistemas de recomendação educacionais.
 
 ## Contato
 
