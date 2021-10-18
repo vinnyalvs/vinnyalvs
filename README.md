@@ -5,7 +5,9 @@
 
 Meu nome é Vinicius (ele/dele), nasci em 1997 em Juiz de Fora, Minas Gerais. Brasil. Sou Bacharel Em Ciencia da Computação e Bacharel em Ciências Exatas pela Universidade Federal de juiz de Fora.
 
-Atualmente trabalho como desenvolvedor na BrainyIT onde trabalho com diversos microserviços. Estes são construídos principalmente com o Framework de Java Spring boot e com o Framework PHP Laravel. Tenho experiência com projetos de cunho cientifico na área de educação em projetos de análise e visualização de dados, com um pézinho em sistemas de recomendação educacionais.
+Atualmente trabalho como desenvolvedor na BrainyIT onde trabalho com diversos microserviços. Estes são construídos principalmente com o Framework de Java Spring boot e com o Framework PHP Laravel e também trabalho parcialmente como DevOps, criando e atualziando imagens Docker e pipelines CI/CD assim como orquestrar e gerenciar containers com Kubernets e outras ferramentas.  Tenho experiência com projetos de cunho cientifico na área de educação em projetos de análise e visualização de dados, com um pézinho em sistemas de recomendação educacionais.
+
+Sou nativo na língua portuguesa, tenho experiência com a língua inglesa e me considero fluente nesta, considerando que fluência seja a capacidade de uso funcional do idioma e não um domínio completo da língua. Estudo Almão como Hobby e me considero iniciante.
 
 ## Contato
 
@@ -33,6 +35,7 @@ Atualmente trabalho como desenvolvedor na BrainyIT onde trabalho com diversos mi
 
 ### Trabalho frequentemente com :
  * Criação e uso de imagens Docker e de arquivos Docker-compose, especialmente para facilitar o desenvolvimento de projetos.
+ * Ajustes de pipelines CI/CD, principalmente no Gitlab
  * Git e versionamento de projetos
  * Desenvolvimento de sites e APIs REST com Laravel/Lumen
  * Desenvolvimento de APIs REST com Spring Boot
@@ -43,7 +46,13 @@ Atualmente trabalho como desenvolvedor na BrainyIT onde trabalho com diversos mi
  * Sistemas de Recomendação
  * SQL 
  * POO
+ * MVC
 
+### O que estou estudando?
+ * Alemão 
+ * Tópicos mais avançados de Laravel
+ * Kubernets e tópicos avançados de Docker
+ * Criação de pipelines
         
 ### Já trabalhei com, mas não tenho muita experiência:
  * Uso do Apache Solr/ Solr Cloud para criar buscas otimizadas
@@ -52,7 +61,8 @@ Atualmente trabalho como desenvolvedor na BrainyIT onde trabalho com diversos mi
  * Javascript. jQuery
  * ChartJS
  * HTML 5, Bootstrap, CSS3
- * Administração de servidores  
+ * Administração de servidores
+ * Kubernets
 
 ### Projetos que ja trabalhei 
  * https://aprendadigital.app.br/quem-somos
@@ -62,7 +72,7 @@ Atualmente trabalho como desenvolvedor na BrainyIT onde trabalho com diversos mi
 ## Projetos Pessoais:
 
 ### Ciência de Dados: 
-   * Primeiros passos com Data Science: https://bit.ly/MinicursoDS
+   * Minicurso: Primeiros passos com Data Science: https://bit.ly/MinicursoDS
    * Explorando a base de dados do ENEM com alunos de Teresina/PI: https://github.com/vinnyalvs/MineracaoDadosEnemTeresina
    * TCC: Uso de aprendizado de máquina para identificar desigualdades sociais na base de dados do ENEM: http://monografias.nrc.ice.ufjf.br/tcc-web/tcc?id=549
      
