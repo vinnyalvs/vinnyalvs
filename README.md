@@ -49,8 +49,10 @@ Sou nativo na língua portuguesa, tenho experiência com a língua inglesa e me 
  * MVC
 
 ### O que estou estudando?
- * Alemão 
- * Tópicos mais avançados de Laravel
+ * Alemão (como hobby)
+ * Inglês (ocasionamente)
+ * Tópicos avançados de Laravel
+ * Spring Boot, Spring Data, Spring Security e Thymeleaf 
  * Kubernets e tópicos avançados de Docker
  * Criação de pipelines
         
