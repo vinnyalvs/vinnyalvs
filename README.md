@@ -39,7 +39,6 @@ Sou nativo na língua portuguesa, tenho experiência com a língua inglesa e me 
  * Git e versionamento de projetos
  * Desenvolvimento de sites e APIs REST com Laravel/Lumen
  * Desenvolvimento de APIs REST com Spring Boot
- * Gerência de times de desenvolvimento
     
 ### Tenho conhecimentos de:
  * Uso de bibliotecas Python para Ciência de dados, Visualização de Dados e Aprendizado de Máquina
@@ -47,6 +46,8 @@ Sou nativo na língua portuguesa, tenho experiência com a língua inglesa e me 
  * SQL 
  * POO
  * MVC
+ * HTML 5, Bootstrap, CSS3
+ * Javascript. jQuery
 
 ### O que estou estudando?
  * Alemão (como hobby)
@@ -60,9 +61,7 @@ Sou nativo na língua portuguesa, tenho experiência com a língua inglesa e me 
  * Uso do Apache Solr/ Solr Cloud para criar buscas otimizadas
  * Testes de software
  * Framework Flask
- * Javascript. jQuery
  * ChartJS
- * HTML 5, Bootstrap, CSS3
  * Administração de servidores
  * Kubernets
 
