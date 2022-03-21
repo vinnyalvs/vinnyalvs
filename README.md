@@ -79,6 +79,9 @@ Sou nativo na língua portuguesa, tenho experiência com a língua inglesa e me 
      
  ### Desenvolvimento Web: 
   * Quer sair da casa dos pais? Se prepara pois pesa no bolso: https://vinnyalvs.github.io/QuantoCustaMorarSozinho/
+ 
+ ### Spring boot
+  * [API em SpringBoot criada para estudo sobre JPA e Herança] (https://github.com/vinnyalvs/drink-list-voter-backend)
      
 ### Artigos Publicados     
    * Identificação de Desigualdades Sociais a partir do desempenho dos alunos do Ensino Médio no ENEM 2019 utilizando Mineração de Dados http://dx.doi.org/10.5753/cbie.sbie.2020.72 
