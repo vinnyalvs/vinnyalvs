@@ -1,23 +1,19 @@
 ### Hi there 👋
-# Bem Vindo! 
+# Welcome! 
 
-## Quem sou eu? 
+## $whoami
 
-Meu nome é Vinicius (ele/dele), nasci em 1997 em Juiz de Fora, Minas Gerais. Brasil. Sou Bacharel Em Ciencia da Computação e Bacharel em Ciências Exatas pela Universidade Federal de juiz de Fora.
+My name is Vinicius (he/him). I was born in 1997 in Juiz de Fora, state of Minas Gerais, Brazil. I have a Bachelor's Degree in Computer Science from the Federal University of Juiz de Fora (UFJF). In addition to Brazilian Portuguese, my native language, I also speak English and German. I view myself as fluent in English, even so, I am always studying to achieve better pronunciation and accurate grammar. I study german as a hobby.
 
-Atualmente trabalho como desenvolvedor na BrainyIT onde trabalho com diversos microserviços. Estes são construídos principalmente com o Framework de Java Spring boot e com o Framework PHP Laravel. As vezes, também trabalho parcialmente como DevOps, criando e atualizando imagens Docker e pipelines CI/CD assim como orquestrar e gerenciar containers com Kubernets e outras ferramentas.  Tenho experiência com projetos de cunho cientifico na área de educação em projetos de análise e visualização de dados, com um pézinho em sistemas de recomendação educacionais.
+I am a Back End Developer, but worked fullstack in many projects. I am also a heavy Docker user (and fan) and worked in the past helping building CI/CD pipelines
 
-Sou nativo na língua portuguesa, tenho experiência com a língua inglesa e me considero fluente, considerando que fluência seja a capacidade de uso funcional do idioma e não um domínio completo da língua. Estudo Alemão como Hobby e me considero iniciante.
-
-## Contato
+## Contact
 
   * Email: viniciusalves@ice.ufjf.br
   * Linkedin: https://www.linkedin.com/in/vinicius-alves-9a45a3117/
 
 
-## Minhas Habilidades:
-
-### Resumo :
+## Skills:
 
 <img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
