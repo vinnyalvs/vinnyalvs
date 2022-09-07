@@ -3,14 +3,13 @@
 
 ## $whoami
 
-My name is Vinicius (he/him). I was born in 1997 in Juiz de Fora, state of Minas Gerais, Brazil. I have a Bachelor's Degree in Computer Science from the Federal University of Juiz de Fora (UFJF). In addition to Brazilian Portuguese, my native language, I also speak English and German. I view myself as fluent in English, even so, I am always studying to achieve better pronunciation and accurate grammar. I study german as a hobby.
-
+My name is Vinicius (he/him). 
 I am a Back End Developer, but worked fullstack in many projects. I am also a heavy Docker user (and fan) and worked in the past helping building CI/CD pipelines
 
 ## Contact
 
-  * Email: viniciusalves@ice.ufjf.br
-  * Linkedin: https://www.linkedin.com/in/vinicius-alves-9a45a3117/
+ [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinnyalvs/)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusaalberto@gmail.com)
 
 
 ## Skills:
@@ -29,74 +28,43 @@ I am a Back End Developer, but worked fullstack in many projects. I am also a he
 <br />
 <br />
 
-### Trabalho frequentemente com :
- * Criação e uso de imagens Docker e de arquivos Docker-compose, especialmente para facilitar o desenvolvimento de projetos.
- * Ajustes de pipelines CI/CD, principalmente no Gitlab
- * Git e versionamento de projetos
- * Desenvolvimento de sites e APIs REST com Laravel/Lumen
- * Desenvolvimento de APIs REST com Spring Boot
-    
-### Tenho conhecimentos de:
- * Uso de bibliotecas Python para Ciência de dados, Visualização de Dados e Aprendizado de Máquina
- * Sistemas de Recomendação
- * SQL 
- * POO
- * MVC
- * HTML 5, Bootstrap, CSS3
- * Javascript. jQuery
 
-### O que estou estudando?
- * Alemão (como hobby)
- * Inglês (ocasionamente)
- * Tópicos avançados de Laravel
- * Spring Boot, Spring Data, Spring Security e Thymeleaf 
- * Kubernets e tópicos avançados de Docker
- * Criação de pipelines
+### Now Studying/ Working with :
+ * Alemão 
+ * Inglês 
+ * Magento 2
+ * Laravel
+ * PHP 8.1
+ * Software Testing and iprove Software quality
+ * Docker
+ * CI/D Pipeline creation and maintenance
+ * Azure
         
-### Já trabalhei com, mas não tenho muita experiência:
+### Already worked with
  * Uso do Apache Solr/ Solr Cloud para criar buscas otimizadas
- * Testes de software
- * Framework Flask
- * ChartJS
- * Administração de servidores
+ * Framework Flask (Python)
+ * Ecossistema Spring (Java)
+ * Data Science
  * Kubernets
 
-### Projetos que ja trabalhei 
- * https://aprendadigital.app.br/quem-somos
- * https://filesender.rnp.br
+### Projetos Open Source que ja contribui 
  * https://github.com/filesender/filesender
 
-## Projetos Pessoais:
+## Personal Projects
 
-### Ciência de Dados: 
+### Data Science: 
    * Minicurso: Primeiros passos com Data Science: https://bit.ly/MinicursoDS
    * Explorando a base de dados do ENEM com alunos de Teresina/PI: https://github.com/vinnyalvs/MineracaoDadosEnemTeresina
    * TCC: Uso de aprendizado de máquina para identificar desigualdades sociais na base de dados do ENEM: http://monografias.nrc.ice.ufjf.br/tcc-web/tcc?id=549
      
- ### Desenvolvimento Web: 
-  * Quer sair da casa dos pais? Se prepara pois pesa no bolso: https://vinnyalvs.github.io/QuantoCustaMorarSozinho/
+ ### PHP
+  * [MVC Framework created form scratch with Doctrine](https://github.com/vinnyalvs/My-MVC-Framewok)
  
  ### Spring boot
-  * [API em SpringBoot criada para estudo sobre JPA e Herança] (https://github.com/vinnyalvs/drink-list-voter-backend)
+  * [SpringBoot API created to study about JPA and Inheritance](https://github.com/vinnyalvs/drink-list-voter-backend)
      
-### Artigos Publicados     
+## Papers Published
    * Identificação de Desigualdades Sociais a partir do desempenho dos alunos do Ensino Médio no ENEM 2019 utilizando Mineração de Dados http://dx.doi.org/10.5753/cbie.sbie.2020.72 
    * Evaluating Educational Recommendation Systems: A systematic mapping http://dx.doi.org/10.5753/cbie.sbie.2020.912
    * An Efficient Algorithm for the Tabu Clustered Traveling Salesman Problem http://dx.doi.org/10.1109/BRACIS.2019.00058
 
-
-
-<!--
-**vinnyalvs/vinnyalvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
