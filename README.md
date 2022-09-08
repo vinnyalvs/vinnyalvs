@@ -30,25 +30,23 @@ I am a Back End Developer, but worked fullstack in many projects. I am also a he
 
 
 ### Now Studying/ Working with :
- * Alemão 
- * Inglês 
+ * German 
+ * English 
  * Magento 2
  * Laravel
- * PHP 8.1
+ * PHP
  * Software Testing and iprove Software quality
  * Docker
- * CI/D Pipeline creation and maintenance
+ * CI/CD Pipeline creation and maintenance
  * Azure
         
 ### Already worked with
- * Uso do Apache Solr/ Solr Cloud para criar buscas otimizadas
+ * Apache Solr
  * Framework Flask (Python)
  * Ecossistema Spring (Java)
  * Data Science
  * Kubernets
 
-### Projetos Open Source que ja contribui 
- * https://github.com/filesender/filesender
 
 ## Personal Projects
 
