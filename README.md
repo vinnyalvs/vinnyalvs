@@ -35,16 +35,15 @@ I am a Back End Developer, but worked fullstack in many projects. I am also a he
  * Magento 2
  * Laravel
  * PHP
- * Software Testing and iprove Software quality
  * Docker
  * CI/CD Pipeline creation and maintenance
- * Azure
+ * Azure/AWS
         
 ### Already worked with
  * Apache Solr
  * Framework Flask (Python)
- * Ecossistema Spring (Java)
- * Data Science
+ * Spring Boot (Java)
+ * Python for Data Science
  * Kubernets
 
 
