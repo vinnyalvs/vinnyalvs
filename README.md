@@ -46,6 +46,9 @@ I am a Back End Developer, but worked fullstack in many projects. I am also a he
  * Python for Data Science
  * Kubernets
 
+## Freelance Project
+  * A Simple Landing Page for the LinhaDecor Project https://github.com/vinnyalvs/LinhaDeCor
+
 
 ## Personal Projects
 
