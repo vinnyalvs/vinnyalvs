@@ -52,6 +52,10 @@ I am a Back End Developer, but worked fullstack in many projects. I am also a he
 
 ## Personal Projects
 
+# Magento
+ * Magento Custom Payment Module: https://github.com/vinnyalvs/MagentoCustomPaymentModule
+ * Magento Studies https://github.com/vinnyalvs/Magento_Studies
+
 ### Data Science: 
    * Minicurso: Primeiros passos com Data Science: https://bit.ly/MinicursoDS
    * Explorando a base de dados do ENEM com alunos de Teresina/PI: https://github.com/vinnyalvs/MineracaoDadosEnemTeresina
